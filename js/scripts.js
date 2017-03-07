@@ -3,7 +3,7 @@
 function rysujChoinke(rows) {
 	// wysokosc choinki
 	var star;
-	for (var i = 1 ; i < rows; i++) {
+	for (var i = 1 ; i <= rows; i++) {
 		
 		// ilosc gwiazdek w rzedzie
 		star = '';
